@@ -188,3 +188,5 @@ console.log(val1);
 //up
 
 //up
+
+//upto
